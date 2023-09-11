@@ -41,7 +41,7 @@ app.post('/send-email', (req, res) => {
               <p>Project Category: <b>${projectCategory}</b></p>
               <p>Occupation: <b>${occupation}</b></p>
               <p>Subject Category: <b>${subjectCategory}</b></p>
-              <p>Subject Category: <b>${subject}</b></p>
+              <p>Subject: <b>${subject}</b></p>
               <p>Terms And Conditions: <b>${agree}</b></p>
             </div>
           </div>
